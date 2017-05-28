@@ -1,0 +1,214 @@
+*{
+	margin:0px;
+padding:0px;
+
+}
+body
+{
+
+}
+#Wrapper
+{
+	position: relative;
+
+}
+/*header*/
+#header
+{
+	background-image:url('../Images/Admin/c.jpg');
+	height: 50px;
+	color:#FFF;
+}
+
+#logo
+{
+	background-image:url('../Images/Admin/c.jpg');
+	float:left;
+	width: 200px;
+	
+}
+#Current a
+{
+	 color:#CCCCCC;
+	 text-decoration:none;
+	 font-size: 25px;
+}
+#Current
+{
+	background-image: url('../Images/Admin/c.jpg');
+	 text-align: center;
+	 color:#CCCCCC;
+}
+#Logout
+{
+	background-image:url('../Images/Admin/c.jpg');
+	float: right;
+	width: 250px;
+		 padding-left: 10px;
+	
+}
+#Logout a
+{ 
+	Color:red;
+}
+/*header*/
+/*Content*/
+#Content
+{
+	background-color: #F6F6F6;
+	margin-left:160px;
+	padding-left: 15px;
+	min-width: 800px;
+}
+#Invoer
+{
+	
+	margin:8px;
+}
+#Invoer ul li
+{
+	list-style:none;
+	font-weight: bolder;
+	text-align:left;
+	margin-left:20px;
+	color:#0000FF;
+}
+#Invoer  #sub
+{
+	
+	text-align:center;
+	 width: 100px;
+	 float: right;
+	 background-color: #4F0000;
+	 color: #fff;
+	
+}
+#Invoer .theme input
+{
+	margin-left:20px;
+}
+#Invoer  .theme
+{
+text-align: right;
+margin-right:10px;
+font-size: 20px;
+font-weight: bold;
+color:maroon;
+background-color: #CCCCCC;
+padding:5px;
+}
+#Overzicht
+{
+float:right;
+	margin:8px;
+	width: 790px;
+}
+.textbx
+{
+float: right;
+background-color:#B72C24;
+color:#fff;
+}
+/*Content*/
+#nav
+{
+	background-color:#CCCCCC;
+	float: left;
+	width: 156px;	
+	padding-left: 5px;
+	padding-top: 5px;
+	}
+#nav div a
+{
+	font-size:16px;
+	font-weight: bold;
+	text-align:right;
+	color:#4F0000;
+	text-decoration:none;
+	margin-right: 10px;
+}
+#nav div 
+{
+	padding-top: 10px;
+	padding-botton: 10px;
+	padding-right:10px;
+		text-align:right;
+}
+#nav div a img
+{
+	
+	padding-left:10px;
+		
+}
+#nav div a:hover
+{
+	color:#000;
+	display:block;
+}
+#nav div:hover
+{
+	background-color:#fff;
+	
+}
+#footer
+{
+	background-image:url('../Images/Admin/c.jpg');
+	clear: both;
+	color:#FFF;
+}
+#MainCompanies form
+{
+	margin-top: 130px;
+}
+#MainCompanies label
+{
+	padding-right: 20px;
+color:#fff;
+	font-size:medium;
+	font-weight: bold;
+}
+#MainCompanies input
+{
+	margin-top: 5px;
+	margin-bottom:  18px;
+	height: 23px;
+	width: 250px;
+	color:#4F0000;
+	
+}
+#MainCompanies input:hover
+{
+	margin-top: 5px;
+	margin-bottom:  18px;
+	height: 23px;
+	width: 250px;
+	color:#4F0000;
+	   -webkit-box-shadow: #fff 3px 3px 3px 4px;
+   -moz-box-shadow: #fff 3px 3px 3px 4px;
+}
+#MainCompanies input#subm
+{
+	width: 100px;
+margin-left:250px;
+	
+}
+#MainCompanies input#name
+{
+	
+margin-right:13px;
+	
+}
+#username
+{
+	background-color:#4F0000;
+	color:#fff;
+	height: 40px;
+	margin-top: 3px;
+}
+#password
+{
+	background-color:#4F0000;
+	color:#fff;	height: 40px;
+	margin-top: 3px;
+
+}
